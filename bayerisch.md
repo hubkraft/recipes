@@ -1,8 +1,8 @@
 # Traditionell bayerische Küche
 ## Overview
-1. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#rahm-pfifferlinge-mit-semmelkn%C3%B6del
-2. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#steckerlfisch-1-frische-makrele-k%C3%BCchenfertig-vom-fischh%C3%A4ndler
-3. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#kartoffel-gurkensalat-200-g-fest-kochende-kartoffeln
+1. [Rahm Pfifferlinge mit Semmelknödel](https://github.com/hubkraft/recipes/blob/main/bayerisch.md#rahm-pfifferlinge-mit-semmelkn%C3%B6del)
+2. [Steckerlfisch](https://github.com/hubkraft/recipes/blob/main/bayerisch.md#steckerlfisch-1-frische-makrele-k%C3%BCchenfertig-vom-fischh%C3%A4ndler)
+3. [Kartoffel-Gurkensalat](https://github.com/hubkraft/recipes/blob/main/bayerisch.md#kartoffel-gurkensalat-200-g-fest-kochende-kartoffeln)
 
 ## Rahm Pfifferlinge mit Semmelknödel
 ### Zutaten
@@ -31,8 +31,9 @@ Zubereitung: 1. Für die Rahmschwammerl: Pfifferlinge waschen, Steinpilze mit ei
 3. In einem Topf Wasser zum Kochen bringen,die Knödel einlegen. Aufkochen lassen und dann nur noch ziehen lassen, bis die Knödel an der Oberfläche schwimmen. 
 4. Die Schwammerl in einen tiefen Teller geben und mit den Knödeln servieren. 
 
-## Steckerlfisch 1 frische Makrele, küchenfertig vom Fischhändler
+## Steckerlfisch
 ### Zutaten
+1 frische Makrele, küchenfertig vom Fischhändler
 1 frische Lachsforelle 
 2 viereckige Spieße für Steckerlfisch 
 0,1 l Olivenöl 
@@ -49,8 +50,9 @@ Zubereitung: 1. Die Holzspieße 2 – 3 Stunden in Wasser einweichen.
 2. Holzkohlegrill vorheizen, bis die Kohle glüht. Geht auch mit dem Gasgrill, das Aroma mit Holzkohle ist besser. 
 3. Für die Marinade das Olivenöl mit den Gewürzen verrühren. Die Zitronenabrieb dazugeben und mit Salz und Pfeffer würzen. Makrele und Lachsforelle innen und außen waschen und trockentupfen. Innen und außen mit Salz und Pfeffer würzen. Die Spieße vom Kopf durch den Rachen an der Rückengräte entlang durch den Fisch spießen. Die Fische gut mit dem Gewürzöl einpinseln und für ca. eine halbe Stunde marinieren lassen. Fische auf den oberen Rand des Grills legen, dass der Abstand zur Kohle ca. 20 bis 30 Zentimeter beträgt. Die Fische sollen langsam garen. Die Fische sind fertig, wenn sich der Spieß locker aus dem Fisch ziehen lässt. ohne dass Fleisch am Spieß kleben bleibt. 
 
-## Kartoffel-Gurkensalat 200 g fest kochende Kartoffeln
+## Kartoffel-Gurkensalat
 ### Zutaten
+200 g fest kochende Kartoffeln
 1 Prise Kümmel 
 1 Lorbeerblatt 
 1 Zweig Petersilie 
