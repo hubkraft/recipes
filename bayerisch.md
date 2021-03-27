@@ -6,7 +6,8 @@
 
 ## Rahm Pfifferlinge mit Semmelknödel
 ### Zutaten
-* für die Knödel: 300 g Knödelbrot
+#### Knödel
+* 300 g Knödelbrot
 * 50 g Zwiebeln, gewürfelt
 * 70 g gekochten Schinken
 * 70 g geräuchertes Wammerl
@@ -16,7 +17,8 @@
 * 4 Eier
 * Salz, Pfeffer aus der Mühle, Muskat
 
-* für die Rahmschwammerl: 500 g Schwammerl (Pfifferlinge und Steinpilze) 
+#### Rahmschwammerl
+* 500 g Schwammerl (Pfifferlinge und Steinpilze) 
 * 2 Schalotten in Streifen
 * 1 Knoblauchzehe im Ganzen
 * 1 Spritzer Essig (Altmeister) 
