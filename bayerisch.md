@@ -1,5 +1,8 @@
 # Traditionell bayerische Küche
-
+## Overview
+1. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#rahm-pfifferlinge-mit-semmelkn%C3%B6del
+2. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#steckerlfisch-1-frische-makrele-k%C3%BCchenfertig-vom-fischh%C3%A4ndler
+3. https://github.com/hubkraft/recipes/blob/main/bayerisch.md#kartoffel-gurkensalat-200-g-fest-kochende-kartoffeln
 
 ## Rahm Pfifferlinge mit Semmelknödel
 ### Zutaten
