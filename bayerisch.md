@@ -1,4 +1,4 @@
-# Traditionell bayerische Küche: Schwammerl mit Semmelknödel und Steckerlfisch mit Kartoffelsalat
+# Traditionell bayerische Küche
 
 
 ## Rahm Pfifferlinge mit Semmelknödel
